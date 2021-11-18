@@ -337,10 +337,10 @@ body {
 		list-style: armenian;
 	}
 	
-	#item1 {
+	#item1 !important {
 		padding-top: 50px;
     width: 12ch;
-  animation: typing 2s steps(12), blink .5s step-end infinite alternate;
+  animation: typing 2s steps(12), blink .5s step-end infinite alternate !important;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
@@ -351,10 +351,10 @@ body {
 }
 	
 	
-	#item2 {
+	#item2 !important {
 		padding-top: 50px;
     width: 12ch;
-  animation: typing 2s steps(12), blink 0.5s step-end infinite alternate;
+  animation: typing 2s steps(12), blink 0.5s step-end infinite alternate !important;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
@@ -363,10 +363,10 @@ body {
 		color:black;
 }
 	
-	#item3 {
+	#item3 !important{
 		padding-top: 50px;
     width: 12ch;
-  animation: typing 2s steps(12), blink 0.5s step-end infinite alternate;
+  animation: typing 2s steps(12), blink 0.5s step-end infinite alternate !important;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
@@ -375,10 +375,10 @@ body {
 		color:black;
 }
 	
-	#item4 {
+	#item4 !important{
 		padding-top: 50px;
     width: 12ch;
-  animation: typing 2s steps(12), blink 0.5s step-end infinite alternate;
+  animation: typing 2s steps(12), blink 0.5s step-end infinite alternate !important;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
@@ -388,15 +388,15 @@ body {
 }
 	
 
-@keyframes typing {
+@keyframes typing !important {
   from {
-    width: 0;
+    width: 0 !important;
   }
 }
     
-@keyframes blink {
+@keyframes blink !important{
   50% {
-    border-color: transparent;
+    border-color: transparent !important;
   }
 }
 
