@@ -329,8 +329,12 @@ body {
         margin-left: 180px;
         margin-top: 10px;
     }
+	.content__container__list{
+		 display: flex;
+		margin-top: 50px;
+	}
 	
-	.content__container__list {
+	.content__container__list_item {
     width: 22ch;
   animation: typing 2s steps(22), blink .5s step-end infinite alternate;
   white-space: nowrap;
