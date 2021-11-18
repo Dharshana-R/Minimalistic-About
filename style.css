@@ -333,9 +333,11 @@ body {
 		display: flex;
 		flex-direcion: column;
 		margin-top: 50px;
+		float: bottom;
 	}
 	
-	.item1 {
+	#item1 {
+		padding-top: 50px;
     width: 22ch;
   animation: typing 2s steps(22), blink .5s step-end infinite alternate;
   white-space: nowrap;
@@ -347,9 +349,10 @@ body {
 }
 	
 	
-	.item2 {
+	#item2 {
+		padding-top: 50px;
     width: 22ch;
-  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  animation: typing 2s steps(22), blink 0.5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
@@ -358,9 +361,10 @@ body {
 		color:black;
 }
 	
-	.item3 {
+	#item3 {
+		padding-top: 50px;
     width: 22ch;
-  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  animation: typing 2s steps(22), blink 0.5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
@@ -369,9 +373,10 @@ body {
 		color:black;
 }
 	
-	.item4 {
+	#item4 {
+		padding-top: 50px;
     width: 22ch;
-  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  animation: typing 2s steps(22), blink 0.5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
