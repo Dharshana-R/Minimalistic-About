@@ -330,11 +330,12 @@ body {
         margin-top: 10px;
     }
 	.content__container__list{
-		display: relative;
+		
 		flex-direcion: column;
 		padding-top: 50px;
-		float: bottom;
-		list-style: armenian;
+		vertical-align: bottom;
+    display: inline-block;
+		list-style: none;
 	}
 	
 	#item1 !important {
