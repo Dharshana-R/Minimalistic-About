@@ -330,7 +330,7 @@ body {
         margin-top: 10px;
     }
 	.content__container__list{
-		display: flex;
+		display: relative;
 		flex-direcion: column;
 		padding-top: 50px;
 		float: bottom;
