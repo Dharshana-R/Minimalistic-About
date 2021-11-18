@@ -312,7 +312,7 @@ body {
         font-weight: 600;
         overflow: hidden;
         height: 40px;
-        padding: 0 40px;
+	    
     }
     
     .content__container:before {
@@ -332,8 +332,9 @@ body {
 	.content__container__list{
 		display: flex;
 		flex-direcion: column;
-		margin-top: 50px;
+		padding-top: 50px;
 		float: bottom;
+		list-style: armenian;
 	}
 	
 	#item1 {
@@ -345,6 +346,7 @@ body {
   border-right: 3px solid;
   font-family: monospace;
   font-size: 2em;
+		margin-top: 50px;
 		color:black;
 }
 	
