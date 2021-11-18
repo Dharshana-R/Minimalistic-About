@@ -20,7 +20,7 @@ body {
 }
 
 .snap{
-    display: none;
+    visibility: hidden;
 }
 
 .content {
