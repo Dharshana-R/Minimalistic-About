@@ -74,6 +74,7 @@ body {
     display: inline;
     float: left;
     margin: 0;
+    
 }
 
 .content__container__list {
@@ -268,6 +269,7 @@ body {
         -webkit-mask-position: -50%;
     }
 }
+
 
 @media only screen and (max-width: 600px) {
     .key {
