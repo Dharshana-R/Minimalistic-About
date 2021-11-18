@@ -330,11 +330,12 @@ body {
         margin-top: 10px;
     }
 	.content__container__list{
-		 display: flex;
+		display: flex;
+		flex-direcion: column;
 		margin-top: 50px;
 	}
 	
-	.content__container__list_item {
+	.item1 {
     width: 22ch;
   animation: typing 2s steps(22), blink .5s step-end infinite alternate;
   white-space: nowrap;
@@ -344,16 +345,51 @@ body {
   font-size: 2em;
 		color:black;
 }
+	
+	
+	.item2 {
+    width: 22ch;
+  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-family: monospace;
+  font-size: 2em;
+		color:black;
+}
+	
+	.item3 {
+    width: 22ch;
+  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-family: monospace;
+  font-size: 2em;
+		color:black;
+}
+	
+	.item4 {
+    width: 22ch;
+  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-family: monospace;
+  font-size: 2em;
+		color:black;
+}
+	
 
 @keyframes typing {
   from {
-    width: 0
+    width: 0;
   }
 }
     
 @keyframes blink {
   50% {
-    border-color: transparent
+    border-color: transparent;
   }
 }
 
