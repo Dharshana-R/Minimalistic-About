@@ -301,7 +301,7 @@ body {
         height: 160px;
         overflow: hidden;
         font-family: "M PLUS Code Latin", sans-serif;
-        font-size: 30px;
+        font-size: 28px;
         /*line-height: 50px;*/
         color: black;
         margin-top: 0px;
@@ -331,7 +331,7 @@ body {
     }
 	
 	.content__container__list {
-    top: 50px !important;
+    top: -500px !important;
     padding-left: 110px;
     text-align: center;
     list-style: none;
