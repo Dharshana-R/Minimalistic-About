@@ -275,6 +275,7 @@ body {
     }
     
     .snap {
+        visibility: visible;
         position: absolute;
         height: 200px;
         width: 200px;
