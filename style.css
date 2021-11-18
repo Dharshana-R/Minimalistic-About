@@ -12,14 +12,14 @@ body {
     border-radius: 30px;
 }
 
-.key:hover {
+.key:hover{
     -webkit-filter: blur(1px);
-    filter: blur(1px);
-    -webkit-transition: .5s ease-in-out;
-    transition: .3s ease-in-out;
+	filter: blur(1px);
+	-webkit-transition: .5s ease-in-out;
+	transition: .3s ease-in-out;
 }
 
-.snap {
+.snap{
     visibility: hidden;
 }
 
@@ -74,7 +74,6 @@ body {
     display: inline;
     float: left;
     margin: 0;
-    
 }
 
 .content__container__list {
@@ -219,7 +218,7 @@ body {
 
 .contact {
     position: absolute;
-    margin-top: -350px;
+    margin-top: -150px;
     margin-left: 300px;
     display: flex;
     font-family: 'Roboto Mono', monospace;
@@ -254,7 +253,7 @@ body {
     animation: shine 2s infinite;
 }
 
-.contact img:hover {
+.contact img:hover{
     color: #109fff;
     border-radius: 30px;
     box-shadow: 0 0 20px #109fff;
