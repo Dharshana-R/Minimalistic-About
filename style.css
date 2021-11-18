@@ -335,7 +335,7 @@ body {
 		padding-top: 50px;
 		vertical-align: bottom;
     display: inline-block;
-		list-style: none;
+		list-style: circle;
 		justify-content: space-between;
 	}
 	
