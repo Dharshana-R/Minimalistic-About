@@ -275,10 +275,12 @@ body {
     }
     
     .snap {
+        margin-left: 50px;
+        margin-top: 10px;
         visibility: visible;
         position: absolute;
-        height: 300px;
-        width: 100px;
+        height: 250px;
+        width: 200px;
         border-radius: 50%;
         cover: fit;
     }
