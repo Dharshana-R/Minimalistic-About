@@ -312,7 +312,8 @@ body {
         font-weight: 600;
         overflow: hidden;
         height: 40px;
-	    
+	    display:flex;
+	    flex-flow: column;
     }
     
     .content__container:before {
@@ -335,8 +336,8 @@ body {
 		padding-top: 50px;
 		vertical-align: bottom;
     display: inline-block;
-		list-style: circle;
-		justify-content: space-between;
+		list-style: none;
+		
 	}
 	
 	#item1 !important {
