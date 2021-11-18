@@ -20,7 +20,7 @@ body {
 }
 
 .snap{
-    visibility: hidden;
+    display: none;
 }
 
 .content {
@@ -217,7 +217,7 @@ body {
 /*-- Contact --*/
 
 .contact {
-    position: fixed;
+    position: absolute;
     margin-top: -150px;
     margin-left: 300px;
     display: flex;
