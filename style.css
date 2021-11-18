@@ -324,7 +324,7 @@ body {
     }
     
     .content__container__text {
-        display: block;
+        display: fixed;
         float: top;
         margin-left: 180px;
         margin-top: 10px;
