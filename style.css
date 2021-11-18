@@ -281,7 +281,7 @@ body {
         display: inline;
         height: 250px;
         width: 200px;
-        border-radius: 50%;
+        border-radius: 20px;
         cover: fit;
     }
     
