@@ -278,7 +278,7 @@ body {
     .snap {
         margin-left: 60px;
         margin-top: 20px;
-        visibility: visible;
+        display: relative;
         position: absolute;
         height: 250px;
         width: 200px;
