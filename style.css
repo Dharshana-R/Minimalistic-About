@@ -336,6 +336,7 @@ body {
 		vertical-align: bottom;
     display: inline-block;
 		list-style: none;
+		justify-content: space-between;
 	}
 	
 	#item1 !important {
