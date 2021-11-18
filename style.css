@@ -278,8 +278,7 @@ body {
     .snap {
         margin-left: 60px;
         margin-top: 20px;
-        display: relative;
-        position: absolute;
+        display: inline;
         height: 250px;
         width: 200px;
         border-radius: 50%;
