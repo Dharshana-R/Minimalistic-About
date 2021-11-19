@@ -407,7 +407,7 @@ body {
 	*/
 	.contact {
     position: absolute;
-    margin-top: 350px;
+    margin-top: 250px;
     margin-left: 30px;
     display: flex;
 		flex-direction: column;
