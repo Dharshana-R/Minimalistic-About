@@ -349,10 +349,11 @@ body {
 	}*/
 	
 	.list1{
-		display: inline-block !important;
+		display: inline !important;
 	}
 	
 	.cont body {
+		display: inline !important;
 	 height: 100%;
 	 margin: 0;
 	 font-family: 'Unica One', sans-serif;
