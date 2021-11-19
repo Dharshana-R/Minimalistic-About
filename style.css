@@ -338,7 +338,7 @@ body {
 		display:none;
 	}
 	.list1{
-		position: relative;
+		position: absolute;
 		margin-top: 100px;
 		display: inline !important;
 		list-style: none;
