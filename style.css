@@ -349,8 +349,9 @@ body {
 	}
 	
 .cont {
+	z-index: 10000;
 	 margin-left: 30px;
-	 margin-right: 30px;
+	 margin-right: 130px;
 	 display: flex;
 	 align-items: center;
 	 justify-content: center;
