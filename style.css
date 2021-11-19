@@ -279,6 +279,7 @@ body {
 	body{
 		background-image: url("https://tinyurl.com/4yauh9b8");
 		position: absolute;
+		user-select:none;
 	}
 	
     .key {
@@ -414,6 +415,7 @@ body {
 	.contact {
     position: absolute;
     margin-top: 80px;
+		padding-top: 50px;
     margin-left: 30px;
     display: flex;
 		flex-direction: column;
