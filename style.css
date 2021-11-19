@@ -339,12 +339,19 @@ body {
 	}
 	
 	.list1{
-        margin-top: 20px;
-		margin-left: 80px;
+        margin-top: 120px;
+		
 		font-family: "M PLUS Code Latin", sans-serif;
         display: inline !important;
-		list-style: none;
+		
 	}
+	
+	.list1 .list ul{
+		list-style: none;
+		margin-left: 80px;
+		font-weight: 700;
+	}
+		
 	
 	.contact {
     position: absolute;
