@@ -339,13 +339,17 @@ body {
 	}
 	.list1{
 		position: absolute;
-		margin-top: 100px;
+		margin-top: 80px;
 		display: inline !important;
-		list-style: none;
-		margin-left: 100px;
+		
+		margin-left: 150px;
 		font-family: "M PLUS Code Latin", sans-serif;
 		font-weight: 800;
 		font-size: 15px;
+	}
+	
+	.list ul{
+		list-style: none;
 	}
 	/*.list1{
 		
