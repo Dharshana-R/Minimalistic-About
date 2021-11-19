@@ -296,6 +296,11 @@ body {
         width: 332px;
         border-radius: 30px;
     }*/
+	
+	.container{
+		display: flex;
+		flex-direction: column;
+	}
     
     .content {
         /*position: absolute;*/
@@ -310,6 +315,7 @@ body {
         color: black;
         margin-top: 0px;
         margin-left: -90px;
+	    
     }
     
     .content__container {
