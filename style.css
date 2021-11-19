@@ -354,7 +354,7 @@ body {
   text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
   font-family: Courier, monospace;
   font-smoothing: antialiased;
-  margin: 0.8em 0;
+  margin: 10px;
   font-size: 18px;
   color: #B95; }
 
@@ -363,8 +363,8 @@ body {
   opacity: 0.25; }
 
 #message {
-  margin-left: -300px;
-  margin-top: -130px;
+  margin-left: 30px;
+  margin-top: 130px;
   position: absolute;
   height: 260px;
   width: 600px;
