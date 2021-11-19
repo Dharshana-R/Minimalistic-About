@@ -297,11 +297,7 @@ body {
         border-radius: 30px;
     }*/
 	
-	.container{
-		display: flex;
-		flex-direction: column;
-	}
-    
+	
     .content {
         /*position: absolute;*/
         top: 400px;
@@ -367,7 +363,7 @@ body {
 }
 	
 .cont {
-	background: transparent;
+	background: black;
 	z-index: 10000;
 	 margin-left: 30px;
 	 margin-right: 130px;
