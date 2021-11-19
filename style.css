@@ -339,15 +339,12 @@ body {
 	}
 	
 	.list1{
-        
-		
 		font-family: "M PLUS Code Latin", sans-serif;
         display: inline !important;
 		
 	}
 	
 	.list1 .list ul{
-		padding-top: 1000px;
 		list-style: none;
 		margin-left: 80px;
 		font-weight: 800;
