@@ -289,13 +289,13 @@ body {
         cover: fit;
     }
     
-    .container {
+    /*.container {
         background-color: #D8E3E7;
         margin: 5px 5px 5px 5px;
         height: 1500px;
         width: 332px;
         border-radius: 30px;
-    }
+    }*/
     
     .content {
         /*position: absolute;*/
