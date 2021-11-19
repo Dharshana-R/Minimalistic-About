@@ -349,7 +349,7 @@ body {
 	}*/
 	
 	.list1{
-		display: inline !important;
+		display: inline-block !important;
 	}
 	
 	.cont body {
