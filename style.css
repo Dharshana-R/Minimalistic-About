@@ -338,7 +338,7 @@ body {
     }
     
     .content__container__text {
-        display: fixed;
+        position: fixed;
         float: top;
         margin-left: 180px;
         margin-top: 10px;
