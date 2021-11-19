@@ -275,6 +275,12 @@ body {
 
 
 @media only screen and (max-width: 600px) {
+	
+	body{
+		background-color: #D8E3E7;
+		border-radius: 30px;
+	}
+	
     .key {
         display: none;
     }
@@ -289,13 +295,13 @@ body {
         /*cover: fit;*/
     }
     
-    .container {
+    /*.container {
         background-color: #D8E3E7;
         margin: 5px 5px 5px 5px;
         height: 1500px;
         width: 332px;
         border-radius: 30px;
-    }
+    }*/
 	
 	
     .content {
