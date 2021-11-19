@@ -337,7 +337,7 @@ body {
 	.content__container__list{
 		display:none;
 	}
-	.list1{
+	/*.list1{
 		position: absolute;
 		margin-top: 10px;
 		display: inline !important;
@@ -346,6 +346,10 @@ body {
 		font-family: "M PLUS Code Latin", sans-serif;
 		font-weight: 800;
 		font-size: 15px;
+	}*/
+	
+	.list1{
+		display: inline!
 	}
 	
 .cont {
@@ -360,6 +364,7 @@ body {
 	 padding: 5px;
 }
  .heading {
+	 font-family: "M PLUS Code Latin", sans-serif;
 	 color: black;
 	 font-size: 15px;
 	 font-weight: 800;
