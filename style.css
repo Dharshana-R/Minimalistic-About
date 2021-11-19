@@ -339,10 +339,16 @@ body {
 	}
 	
 	.list{
-		display: inline-block;
+		
 		color: black;
 		margin-top: 30px;
 		font-size: 15px;
+		margin-left: 60px;
+        margin-top: 20px;
+        display: inline;
+        height: 250px;
+        width: 200px;
+        border-radius: 20px;
 	}
 	
 	.contact {
