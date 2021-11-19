@@ -339,9 +339,10 @@ body {
 	}
 	
 	.list{
-		display: inline;
+		display: inline-block;
 		color: black;
 		margin-top: 30px;
+		font-size: 15px;
 	}
 	
 	.contact {
