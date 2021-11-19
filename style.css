@@ -338,6 +338,7 @@ body {
 		display:none;
 	}
 	.list1{
+		top: 100px;
 		display: inline !important;
 	}
 	/*.list1{
