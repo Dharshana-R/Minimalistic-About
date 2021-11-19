@@ -342,13 +342,13 @@ body {
 		margin-top: 10px;
 		display: inline !important;
 		
-		margin-left: 150px;
+		margin-left: 50px;
 		font-family: "M PLUS Code Latin", sans-serif;
 		font-weight: 800;
 		font-size: 15px;
 	}
 	
-	.list ul{
+	.list ul li{
 		list-style: none;
 	}
 	/*.list1{
