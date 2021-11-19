@@ -318,8 +318,8 @@ body {
         display: inline;
         height: 250px;
         width: 200px;
-        border-radius: 20px;
-        box-shadow: 5px 3px 3px grey;
+
+box-shadow: 5px 3px 3px grey;
     }
 
     .content {
