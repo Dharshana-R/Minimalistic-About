@@ -338,7 +338,8 @@ body {
 		display:none;
 	}
 	.list1{
-		top: 100px;
+		position: relative;
+		margin-top: 100px;
 		display: inline !important;
 		list-style: none;
 	}
