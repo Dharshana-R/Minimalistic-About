@@ -337,8 +337,10 @@ body {
 	.content__container__list{
 		display:none;
 	}
-	
 	.list1{
+		display: inline !important;
+	}
+	/*.list1{
 		font-family: "M PLUS Code Latin", sans-serif;
         display: inline !important;
 		align-items: center;
@@ -351,7 +353,7 @@ body {
 		font-weight: 800;
 	}
 		
-	
+	*/
 	.contact {
     position: absolute;
     margin-top: 350px;
