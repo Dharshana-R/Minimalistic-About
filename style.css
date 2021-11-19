@@ -347,7 +347,7 @@ body {
 	}
 	
 	.list1 .list ul{
-		margin-top: 1000px;
+		padding-top: 1000px;
 		list-style: none;
 		margin-left: 80px;
 		font-weight: 800;
