@@ -349,6 +349,7 @@ body {
 	}
 	
 .cont {
+	background: transparent;
 	z-index: 10000;
 	 margin-left: 30px;
 	 margin-right: 130px;
