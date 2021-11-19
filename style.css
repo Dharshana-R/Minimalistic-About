@@ -286,7 +286,7 @@ body {
         height: 250px;
         width: 200px;
         border-radius: 20px;
-        cover: fit;
+        /*cover: fit;*/
     }
     
     /*.container {
