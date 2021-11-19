@@ -277,7 +277,7 @@ body {
 @media only screen and (max-width: 600px) {
 	
 	body{
-		background-image: url("https://tinyurl.com/2cz2mbsp");
+		background-image: url("https://tinyurl.com/4yauh9b8");
 		position:fixed;
 		border-radius: 30px;
 	}
@@ -338,7 +338,7 @@ body {
     }
     
     .content__container__text {
-        position: fixed;
+        position: relative;
         float: top;
         margin-left: 180px;
         margin-top: 10px;
